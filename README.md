@@ -1,3 +1,4 @@
+
 # WorldSkills
 ## ¿Qué es WorldSkills?
 * Es un espacio para demostrar las habilidades de los aprendices a nivel nacional e internacional.
@@ -85,9 +86,9 @@ Es algo historico quedaron 4 regionales que nunca habian estado en podio.
 Desde este momento quedo como competidor internacional representado a Colombia en la habilidad tecnologías web.
 ```
 
-## ✈ Entrenamientos y capacitaciones 
+**Si deseas más información técnica y un poco más sobre la experiencia de ser un competidor WorldSkills puedes continuar leyendo este post en Medium.**
 
-#INCOMING...
+[https://ofaaoficial.medium.com/worldskills-colombia-web-technologies-3bb2698130e4](https://ofaaoficial.medium.com/worldskills-colombia-web-technologies-3bb2698130e4)
 
 ## License 🔥
 Copyright © 2019-present [Oscar Amado](https://github.com/ofaaoficial) 🧔
